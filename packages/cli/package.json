@@ -84,7 +84,7 @@
     "ethers": "^6.7.0",
     "find-up": "^6.3.0",
     "inquirer": "^9.1.5",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.3.2",
     "proper-lockfile": "^4.1.2",
     "rimraf": "^4.4.1",
     "source-map-support": "^0.5.21",
