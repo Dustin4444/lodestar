@@ -60,9 +60,9 @@
     "@lodestar/api": "workspace:^",
     "@lodestar/params": "workspace:^",
     "@lodestar/utils": "workspace:^",
-    "axios": "^1.13.2",
+    "axios": "^1.16.0",
     "tmp": "^0.2.1",
-    "vitest": "catalog:"
+    "vitest": "4.1.8"
   },
   "devDependencies": {
     "@types/tmp": "^0.2.3",
